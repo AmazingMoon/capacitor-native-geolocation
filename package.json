@@ -1,6 +1,6 @@
 {
   "name": "@wisdomgarden/capacitor-native-geolocation",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "native geolocation",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
@@ -56,9 +56,9 @@
   "swiftlint": "@ionic/swiftlint-config",
   "repository": {
     "type": "git",
-    "url": "https://github.com/"
+    "url": "https://gitlab.tronclass.com.cn/lms/capacitor-native-geolocation"
   },
   "bugs": {
-    "url": "https://github.com//issues"
+    "url": "https://gitlab.tronclass.com.cn/lms/capacitor-native-geolocation/-/issues"
   }
 }
